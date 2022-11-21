@@ -1,0 +1,3 @@
+tekst = 'ąjoM ęlow janz ,elotam kaj ęis ,ęrpu ein ęlowzop'
+
+print(' '.join((wyraz[::-1]) for wyraz in tekst.split()))
